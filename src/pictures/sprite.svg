@@ -1,0 +1,72 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000" stroke-width="0.552" stroke-linecap="round" stroke-linejoin="miter" viewBox="0 0 24 24" id="bookmark-svgrepo-com (2)">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <polygon points="20 22 12 16 4 22 4 2 20 2 20 22"></polygon>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter" viewBox="0 0 24 24" id="bookmark-svgrepo-com (1)">
+    <polygon points="20 22 12 16 4 22 4 2 20 2 20 22"></polygon>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" fill="#000000" stroke="#000000" stroke-width="0.00024000000000000003" viewBox="0 0 24 24" id="bookmark-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M20 23.444l-8-5.44-8 5.44V1h16zm-8-6.648l7 4.76V2H5v19.556z"></path>
+      <path fill="none" d="M0 0h24v24H0z"></path>
+    </g>
+  </symbol>
+  <symbol fill="#000000" xmlns="http://www.w3.org/2000/svg" transform="matrix(-1, 0, 0, 1, 0, 0)rotate(0)" stroke="#000000" stroke-width="0.00024000000000000003" viewBox="-2.4 -2.4 28.80 28.80" id="comment-svgrepo-com (1)">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M8.2881437,19.1950792 C8.38869181,19.1783212 8.49195996,19.1926955 8.58410926,19.2362761 C9.64260561,19.7368747 10.8021412,20 12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,13.7069096 4.53528582,15.3318588 5.51454846,16.6849571 C5.62010923,16.830816 5.63909672,17.022166 5.5642591,17.1859256 L4.34581002,19.8521348 L8.2881437,19.1950792 Z M3.58219949,20.993197 C3.18698783,21.0590656 2.87870208,20.6565881 3.04523765,20.2921751 L4.53592782,17.0302482 C3.54143337,15.5576047 3,13.818993 3,12 C3,7.02943725 7.02943725,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 C10.707529,21 9.4528641,20.727055 8.30053434,20.2068078 L3.58219949,20.993197 Z"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" transform="matrix(-1, 0, 0, 1, 0, 0)" viewBox="0 0 24 24" id="comment-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#fd0d0d" stroke-width="0.384"></g>
+    <g id="SVGRepo_iconCarrier">
+      <g clip-path="url(#clip0_429_11233)">
+        <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 13.4876 3.36093 14.891 4 16.1272L3 21L7.8728 20C9.10904 20.6391 10.5124 21 12 21Z" stroke="#292929" stroke-width="0.72" stroke-linecap="round" stroke-linejoin="round"></path>
+      </g>
+      <defs>
+        <clipPath id="clip0_429_11233">
+          <rect width="24" height="24" fill="white"></rect>
+        </clipPath>
+      </defs>
+    </g>
+  </symbol>
+  <symbol role="img" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"  stroke="#000000" stroke-width="0.00014" viewBox="0 0 14.00 14.00" id="like">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#030303" stroke-width="0.7">
+      <path d="M9.727273 2.090909c-1.1454548 0-2.1545457.572727-2.727273 1.472727-.5727273-.9-1.5818182-1.472727-2.7272727-1.472727C2.4727273 2.090909 1 3.563636 1 5.363636c0 3.245455 6 6.545455 6 6.545455s6-3.272727 6-6.545455c0-1.8-1.472727-3.272727-3.272727-3.272727z"></path>
+    </g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M9.727273 2.090909c-1.1454548 0-2.1545457.572727-2.727273 1.472727-.5727273-.9-1.5818182-1.472727-2.7272727-1.472727C2.4727273 2.090909 1 3.563636 1 5.363636c0 3.245455 6 6.545455 6 6.545455s6-3.272727 6-6.545455c0-1.8-1.472727-3.272727-3.272727-3.272727z"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="send-2-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M20 4L3 11L10 14M20 4L13 21L10 14M20 4L10 14" stroke="#000000" stroke-width="0.4800000000000001" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="user-1-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M16 15H8C5.79086 15 4 16.7909 4 19V21H20V19C20 16.7909 18.2091 15 16 15Z" stroke="#000000" stroke-width="0.4800000000000001" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M12 11C14.2091 11 16 9.20914 16 7C16 4.79086 14.2091 3 12 3C9.79086 3 8 4.79086 8 7C8 9.20914 9.79086 11 12 11Z" stroke="#000000" stroke-width="0.4800000000000001" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </symbol>
+   <symbol xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 20 20" id="horizontaldotsminor-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M6 10a2 2 0 11-4.001-.001A2 2 0 016 10zm6 0a2 2 0 11-4.001-.001A2 2 0 0112 10zm6 0a2 2 0 11-4.001-.001A2 2 0 0118 10z" fill="#000000"></path>
+    </g>
+  </symbol>
+</svg>
